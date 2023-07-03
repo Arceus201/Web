@@ -1,0 +1,31 @@
+1.Tạo repo mới:
+
+- Mở GitHub Desktop
+- Nhấp vào nút "Create New Repository" ở góc trên bên trái.
+- Điền thông tin cho repo mới của bạn như tên, mô tả và đường dẫn lưu trữ (Local Path).
+- Nhấp vào nút "Create Repository" để tạo repo mới.
+
+2.Clone repo về local:
+
+- Mở GitHub Desktop.
+- Nhấp vào nút "Add" ở góc trên bên trái và chọn "Clone Repository".
+- Chọn repo bạn muốn clone từ danh sách hoặc paste URL repo.
+- Chọn thư mục trên máy tính để lưu trữ repo đã clone.
+- Nhấp vào nút "Clone" để bắt đầu quá trình clone.
+
+3.Tạo một nhánh mới:
+
+- Sau khi đã clone repo thành công, mở GitHub Desktop.
+T- rong tab "Current Repository", đảm bảo bạn đang ở repo muốn tạo nhánh mới.
+- Nhấp vào nút "Current Branch" và chọn nhánh mà bạn muốn dựa vào để tạo nhánh mới (thường là nhánh "main" hoặc "master").
+- Nhấp vào nút "New Branch" ở góc trên bên phải.
+- Đặt tên cho nhánh mới của bạn và nhấp vào "Create Branch".
+
+4.Đẩy một pull request lên GitHub:
+
+- Sau khi bạn đã thực hiện các thay đổi và commit trên nhánh mới, bạn cần đẩy nhánh đó lên GitHub và tạo pull request từ đó.
+- Mở GitHub Desktop và chuyển sang nhánh bạn vừa tạo.
+- Thực hiện các thay đổi và commit vào nhánh mới.
+- Nhấp vào nút "Push origin" để đẩy nhánh mới và các commit lên GitHub.
+- Sau khi đã đẩy nhánh mới lên GitHub, truy cập vào repo trên trình duyệt web.
+- Sẽ hiển thị thông báo có thay đổi mới và bạn có thể nhấp vào nút "Compare & pull request" để tạo pull request.
